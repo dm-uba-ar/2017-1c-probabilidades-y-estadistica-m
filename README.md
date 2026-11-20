@@ -1,9 +1,4 @@
-# Probabilidad y Estadística (M) — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Pablo Groisman
-- **Clases prácticas:** Maximiliano Camporino, Martín Vacas Vignolo
+# Probabilidades y Estadística M — Primer cuatrimestre de 2017
 
 ## Prácticas
 
